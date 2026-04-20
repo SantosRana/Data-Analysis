@@ -1,4 +1,4 @@
-# Copy_PROJECTEDA
+# Exploratory Data Analysis
 
 ## 📌 Overview
 This project contains an exploratory data analysis (EDA) notebook focused on housing data.  
